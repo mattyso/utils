@@ -2,6 +2,11 @@
 
 You may need to add utils.js as a dependency to import it
 
+-----------------------------------------------------------------------------------------------------
+import "./utils.js";
+import { Vertex, Grid, Fraction, utils } from "./utils"; // Vertex, Grid, Fraction, utils are optional, may be added or removed
+-----------------------------------------------------------------------------------------------------
+
 Importable: Vertex, Grid, Fraction, utils
 
 version 1.5
